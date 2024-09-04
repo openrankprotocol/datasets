@@ -1,7 +1,3 @@
-i,j,v
-1,2,30
-1,3,40
-2,1,10
-2,3,50
-3,1,5
-3,2,25
+version https://git-lfs.github.com/spec/v1
+oid sha256:66e6990284714d3bb6b6b1c42f257a38843b117f5235444919ae471acdf86bf5
+size 47
