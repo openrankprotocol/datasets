@@ -6,4 +6,4 @@ else
     export PATH=$HOME/.cargo/bin:$PATH
 fi
 
-cargo install openrank-sdk --version "1.0.0"
+cargo install openrank-sdk --version "0.1.0"
