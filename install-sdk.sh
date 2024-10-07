@@ -7,3 +7,5 @@ else
 fi
 
 cargo install openrank-sdk --version "0.1.0"
+
+openrank-sdk generate-keypair
