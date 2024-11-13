@@ -1,0 +1,13 @@
+# configuration for channel:openrank interval:0
+
+[domain]
+algo_id = 0
+trust_owner = "89FE536DF343C2E69E18B51495D43F424702B5D6"
+trust_id = 990
+seed_owner = "89FE536DF343C2E69E18B51495D43F424702B5D6"
+seed_id = 990
+
+[sequencer]
+endpoint = "https://or-dev-prod.k3l.io/5TVjmryo1z0KNw_u6JK50Dmu9tst5BWXmBjS1GALCAg"
+result_size = 612
+
