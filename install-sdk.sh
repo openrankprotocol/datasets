@@ -11,7 +11,7 @@ git lfs pull
 echo "Done\n"
 
 echo "Installing SDK.."
-cargo install openrank-sdk --version "0.1.5"
+cargo install openrank-sdk --version "0.1.6"
 echo "Done\n"
 
 echo "Generating keypair:"

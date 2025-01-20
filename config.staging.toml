@@ -1,0 +1,9 @@
+[domain]
+algo_id = 0
+trust_owner = "72dc04bf5008866192fad3d338c62b96771b4d25"
+trust_id = 9
+seed_owner = "72dc04bf5008866192fad3d338c62b96771b4d25"
+seed_id = 9
+
+[sequencer]
+endpoint = "https://or-dev-staging.k3l.io/[API_KEY]"
