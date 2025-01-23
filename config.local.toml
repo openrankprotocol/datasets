@@ -7,3 +7,9 @@ algo_id = 0
 
 [sequencer]
 endpoint = "http://127.0.0.1:60000"
+
+[computer]
+endpoint = "http://127.0.0.1:60001"
+
+[verifier]
+endpoint = "http://127.0.0.1:60002"
